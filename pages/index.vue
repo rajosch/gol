@@ -1,3 +1,8 @@
+<script setup lang="ts">
+    import { useRouter, useState } from "#app";
+
+</script>
+
 <template>
-    Hello from pages!
+    Index
 </template>

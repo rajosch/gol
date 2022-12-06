@@ -1,0 +1,4 @@
+<template>
+    Ranking
+
+</template>

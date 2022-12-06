@@ -1,9 +1,6 @@
-export interface IUser {
-    id?: number
-    username: string
-    name?: string
-    loginType?: string
+export type IUser = {
+    id?: number,
+    username: string,
+    email?: string,
     password?: string
-    email?: string
-    avatarUrl?: string
 }
